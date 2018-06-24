@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\jniLibs"><file name="armeabi-v7a/libsnowboy-detect-android.so" path="C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\jniLibs\armeabi-v7a\libsnowboy-detect-android.so"/></source></dataSet><dataSet config="debug"><source path="C:\Users\Ryan Warwick\Documents\Team YAT\app\src\debug\jniLibs"/></dataSet></merger>
