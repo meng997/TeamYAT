@@ -1,0 +1,465 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\3284fe650cd09e8dbc6c5284e5d2c374\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-firestore:17.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.0.1.aar\d7e6fb8e69bd83b8898afc7bc5310556\AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\78fee721f5b1d45b23226d75a4874919\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d1a0cc259218f724fcb1a9fa7dd622b7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\fc1d32895c55adb28150b3f0e1db2fb9\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:17:1-65:12
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:2:1-16:12
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\e2675d411e64b97b42d94a8ac46ba98e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\d23d718337ef157fa9c31babd5b653a2\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b50d3c2da6edb12ad4e5a42de82f941\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\0433bf4660b7c2f8573bd66ab1c2957e\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\506dfff2b7883348fb9b2746756f125f\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d99469f878808daff9bf703c585f4a9\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ff3838b1ed7c95eef833546c7f0b14bf\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:protolite-well-known-types:15.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-15.0.0.aar\4ff4a7a4fea1f16520905e07dae362db\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\62428bddc6c5bab2bd89cb8c03c07ae5\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+	package
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:1-27:12
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:5:22-68
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:6:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:7:22-78
+application
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:9:5-25:19
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\3284fe650cd09e8dbc6c5284e5d2c374\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\3284fe650cd09e8dbc6c5284e5d2c374\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d1a0cc259218f724fcb1a9fa7dd622b7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d1a0cc259218f724fcb1a9fa7dd622b7\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:22:5-36:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\fc1d32895c55adb28150b3f0e1db2fb9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\fc1d32895c55adb28150b3f0e1db2fb9\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:34:5-63:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:8:5-14:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\d23d718337ef157fa9c31babd5b653a2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\d23d718337ef157fa9c31babd5b653a2\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b50d3c2da6edb12ad4e5a42de82f941\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b50d3c2da6edb12ad4e5a42de82f941\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\506dfff2b7883348fb9b2746756f125f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\506dfff2b7883348fb9b2746756f125f\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d99469f878808daff9bf703c585f4a9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d99469f878808daff9bf703c585f4a9\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ff3838b1ed7c95eef833546c7f0b14bf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ff3838b1ed7c95eef833546c7f0b14bf\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\62428bddc6c5bab2bd89cb8c03c07ae5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\62428bddc6c5bab2bd89cb8c03c07ae5\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:15:9-40
+activity#sg.gowild.sademo.MainActivity
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:17:9-59
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:17:19-47
+activity#sg.gowild.sademo.PermissionActivity
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:18:19-53
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\3284fe650cd09e8dbc6c5284e5d2c374\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-core-16.0.1.aar\3284fe650cd09e8dbc6c5284e5d2c374\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-firestore:17.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.0.1.aar\d7e6fb8e69bd83b8898afc7bc5310556\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-firestore-17.0.1.aar\d7e6fb8e69bd83b8898afc7bc5310556\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\78fee721f5b1d45b23226d75a4874919\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\multidex-1.0.3.aar\78fee721f5b1d45b23226d75a4874919\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d1a0cc259218f724fcb1a9fa7dd622b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\d1a0cc259218f724fcb1a9fa7dd622b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\fc1d32895c55adb28150b3f0e1db2fb9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-interop-16.0.0.aar\fc1d32895c55adb28150b3f0e1db2fb9\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:5:5-6:37
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\e2675d411e64b97b42d94a8ac46ba98e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-flags-15.0.1.aar\e2675d411e64b97b42d94a8ac46ba98e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\d23d718337ef157fa9c31babd5b653a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-interop-16.0.0.aar\d23d718337ef157fa9c31babd5b653a2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b50d3c2da6edb12ad4e5a42de82f941\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\5b50d3c2da6edb12ad4e5a42de82f941\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\0433bf4660b7c2f8573bd66ab1c2957e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-collection:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-database-collection-15.0.1.aar\0433bf4660b7c2f8573bd66ab1c2957e\AndroidManifest.xml:6:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\506dfff2b7883348fb9b2746756f125f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-stats-15.0.1.aar\506dfff2b7883348fb9b2746756f125f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d99469f878808daff9bf703c585f4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-16.0.0.aar\7d99469f878808daff9bf703c585f4a9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ff3838b1ed7c95eef833546c7f0b14bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-ads-identifier-15.0.1.aar\ff3838b1ed7c95eef833546c7f0b14bf\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:protolite-well-known-types:15.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-15.0.0.aar\4ff4a7a4fea1f16520905e07dae362db\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:15.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\protolite-well-known-types-15.0.0.aar\4ff4a7a4fea1f16520905e07dae362db\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\62428bddc6c5bab2bd89cb8c03c07ae5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-measurement-base-16.0.0.aar\62428bddc6c5bab2bd89cb8c03c07ae5\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Ryan Warwick\Documents\Team YAT\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\6e590c3fa4872f25ec2d2b57456cea6f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\86bbb8052a769cdcb7c9495f7c2ee0af\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\25578cc3c8c85a583ed2d1a773a92e56\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\474e4d0e20ff4f2e9133ef340920bd07\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\cf58a61f6a648acb126689df76af388a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\56faf6200340b887c3d0ffee83c08d65\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\be4b97cc75846a513dbf8c6f42dc61ee\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fba934187caec76aae0b2bf44f81db10\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\65d684fcfe90ffa9e7a5dc94d29b14cb\AndroidManifest.xml:27:13-51
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:24:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:31:9-35:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:35:9-39:19
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:31:18-89
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.2] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-auth-16.0.2.aar\cefc717125f6851b3e06bdca316c23ff\AndroidManifest.xml:33:17-109
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:23:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:24:22-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-measurement-connector-impl-16.0.1.aar\2344e3b29c7d5618b398bf36bf2277e5\AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.1.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-16.1.1.aar\d96ea9fabfc1178d39c08e83ce25b569\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-analytics-16.0.1.aar\27c887c409068ecc9d987fd7e5f1ff52\AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:29:9-63
+permission#sg.gowild.sademo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:32:22-76
+uses-permission#sg.gowild.sademo.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:32:22-76
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:37:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:41:9-50:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:43:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:44:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:42:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:45:13-49:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:sg.gowild.sademo
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:45:13-49:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:46:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:46:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:48:27-58
+category#sg.gowild.sademo
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:48:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:48:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:56:9-62:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:58:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:57:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:59:13-61:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:59:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:60:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-iid-16.0.0.aar\cebce5625d09b23a60fad9d0cd0e81a2\AndroidManifest.xml:60:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:9:9-13:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:11:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:12:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:13:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\firebase-common-16.0.0.aar\89e9130289e6791059cc869a877185b5\AndroidManifest.xml:10:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\6b57108733f972a13b68045f6d582e7c\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d541416d05788be33c17f351c0e966b2\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Ryan Warwick\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\99ec849340644ccb98284c0a14e1ec73\AndroidManifest.xml:26:13-58
